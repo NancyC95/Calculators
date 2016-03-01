@@ -1,6 +1,8 @@
 # Calculators
 Different types of calculators for different needs in Java
 
+AddinginLoop: Continues to sum up all integers given by user until 0 is entered.
+
 Change2: Displays the minimum number of coins needed based on the amount of change entered
 
 P4: Displays calculations based on integer inputs including sum, difference, product, average, distance, maximum, and minimum 
