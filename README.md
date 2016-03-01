@@ -11,6 +11,8 @@ DistanceTraveled: Calculates total distance traveled based on MPH & minutes trav
 
 PlanetScale: A program that uses the relative gravity of multiple planets to convert your weight on Earth to your weight on a planet of your choice. Utilizes Hashmaps.
 
+PlanetScale2: Another way of writing the program PlanetScale without the use of Hashmaps.
+
 RightTriangleChecker: Checks if three inputted side integers represents the sides of a right triangles.
 
 SafeSquareRoot: Square roots the number inputted, accounting for negative inputs
